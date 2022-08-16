@@ -56,7 +56,48 @@ tag:
 - `span`: Span-based
 - `mrc`: Reading Comprehension
 
-### NAACL2022
+### preprint
+
+### [AAAI2022](https://aaai-2022.virtualchair.net/papers.html?filter=titles&search=Entity)
+- Li+'22 - Unified Named Entity Recognition as Word-Word Relation Classification (AAAI) [[paper](https://aaai-2022.virtualchair.net/poster_aaai742)]
+- Agarwal+'22 - Towards Robust Named Entity Recognition via Temporal Domain Adaptation and Entity Context Understanding (AAAI) [[paper](https://aaai-2022.virtualchair.net/poster_dc136)]
+- Shang+'22 - OneRel: Joint Entity and Relation Extraction with One Module in One Step (AAAI) [[paper](https://aaai-2022.virtualchair.net/poster_aaai246)]
+- Raiman+'22 - DeepType 2: Superhuman Entity Linking, All You Need Is Type Interactions (AAAI) [[paper](https://aaai-2022.virtualchair.net/poster_aaai2612)]
+- Liang+'22 - Exploring Entity Interactions for Few-Shot Relation Learning (AAAI) [[paper](https://aaai-2022.virtualchair.net/poster_sa368)]
+- Xin+'22 - Ensemble Semi-Supervised Entity Alignment via Cycle-Teaching (AAAI) [[paper](https://aaai-2022.virtualchair.net/poster_aaai5065)]
+
+### [TACL2022](https://aclanthology.org/events/tacl-2022/)
+- Li+'22 - Ultra-fine Entity Typing with Indirect Supervision from Natural Language Inference (TACL) [[paper](https://aclanthology.org/2022.tacl-1.35/)]
+- Cao+'22 - Multilingual Autoregressive Entity Linking (TACL) [[paper](https://aclanthology.org/2022.tacl-1.16/)]
+
+### [LREC2022](https://lrec2022.lrec-conf.org/en/conference-programme/accepted-papers/)
+- Yeshpanov+'22 - KazNERD: Kazakh Named Entity Recognition Dataset (LREC)
+- Epure+'22 - Probing Pre-trained Auto-regressive Language Models for Named Entity Typing and Recognition (LREC)
+- Jiang+'22 - Annotating the Tweebank Corpus on Named Entity Recognition and Building NLP Models for Social Media Analysis (LREC)
+- Phan+'22 - A Named Entity Recognition Corpus for Vietnamese Biomedical Texts to Support Tuberculosis Treatment (LREC)
+- Green+'22 - Development of a Benchmark Corpus to Support Entity Recognition in Job Descriptions (LREC)
+- Aprosio+'22 - KIND: an Italian Multi-Domain Dataset for Named Entity Recognition (LREC)
+- Rückert+'22 - A Unified Approach to Entity-Centric Context Tracking in Social Conversations (LREC)
+- Jarrar+'22 - Wojood: Nested Arabic Named Entity Corpus and Recognition using BERT (LREC)
+- Strobl+'22 - Enhanced Entity Annotations for Multilingual Corpora (LREC)
+- Orasmaa+'22 - Named Entity Recognition in Estonian 19th Century Parish Court Records (LREC)
+- Severini+'22 - Towards a Broad Coverage Named Entity Resource: A Data-Efficient Approach for Many Diverse Languages (LREC)
+- Garcia-Duran+'22 - Efficient Entity Candidate Generation for Low-Resource Languages (LREC)
+- Bonet+'22 - Spanish Datasets for Sensitive Entity Detection in the Legal Domain (LREC)
+- Pathak+'22 - AsNER - Annotated Dataset and Baselines for Assamese Named Entity recognition (LREC)
+- Hatab+'22 - Enhancing Deep Learning with Embedded Features for Arabic Named Entity Recognition (LREC)
+- Skórzewski+'22 - Named Entity Recognition to Detect Criminal Texts on the Web (LREC)
+- Ivanova+'22 - Comparing Annotated Datasets for Named Entity Recognition in English Literature (LREC)
+- Loukachevitch+'22 - Entity Linking over Nested Named Entities for Russian (LREC)
+- Murthy+'22 - HiNER: A large Hindi Named Entity Recognition Dataset (LREC)
+- Cui+'22 - OpenEL: An Annotated Corpus for Entity Linking and Discourse in Open Domain Dialogue (LREC)
+- Sun+'22 - SPORTSINTERVIEW: A Large-Scale Sports Interview Benchmark for Entity-centric Dialogues (LREC)
+- Alekseev+'22 - Medical Crossing: a Cross-lingual Evaluation of Clinical Entity Linking (LREC)
+- Mullick+'22 - Using Sentence-level Classification Helps Entity Extraction from Material Science Literature (LREC)
+- Çarık +'22 - A Twitter Corpus for Named Entity Recognition in Turkish (LREC)
+- Okur+'22 - Exploring Paraphrase Generation and Entity Extraction for Multimodal Dialogue System (LREC)
+
+### [NAACL2022](https://2022.naacl.org/program/accepted_papers/)
 - Wu+'22 - Robust Self-Augmentation for Named Entity Recognition with Meta Reweighting (NAACL) [[arXiv](https://arxiv.org/abs/2204.11406)]
 - Fetahu+'22 - Dynamic Gazetteer Integration in Multilingual Models for Cross-Lingual and Cross-Domain Named Entity Recognition (NAACL) [[AmazonScience](https://assets.amazon.science/4b/72/7d7551b144039c3f9b955b8e6cdc/dynamic-gazetteer-integration-in-multilingual-models-for-cross-lingual-and-cross-domain-named-entity-recognition.pdf)]
 - Wang+'22 - Sentence-Level Resampling for Named Entity Recognition (NAACL) [[openreview](https://openreview.net/pdf?id=W_0vwhG1gkW)]
