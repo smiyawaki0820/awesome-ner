@@ -46,7 +46,9 @@ WIP
 - See: https://github.com/doccano/awesome-annotation-tools
 
 ## Active Learning
-TBA
+- Li+'17 - Proactive Learning for Named Entity Recognition (BioNLP) [[ACL Anthology](https://aclanthology.org/W17-2314/)]
+- Agrawal+'21 - Active learning approach using a modified least confidence sampling strategy for named entity recognition [[ACM](https://dl.acm.org/doi/abs/10.1007/s13748-021-00230-w)]
+- Shen+'17 - Deep Active Learning for Named Entity Recognition [[arXiv](https://arxiv.org/abs/1707.05928)]
 
 ## Papers (entity-aware)
 WIP
